@@ -1,9 +1,8 @@
 package com.TarekSyntax;
 
-public class FirstClass {
+public class Tarek1 {
 	public static void main(String[] args) {
-		System.out.println("Hi SABAH");
-		
+		System.out.println("Good evening");
 	}
 
 }
